@@ -1,0 +1,6 @@
+framework module Pods_BitWorth {
+  umbrella header "Pods-BitWorth-umbrella.h"
+
+  export *
+  module * { export * }
+}
